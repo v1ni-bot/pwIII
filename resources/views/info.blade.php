@@ -22,6 +22,13 @@
     </head>
     <body class="antialiased">
     <div class="relative flex items-top justify-left min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-top py-4 sm:pt-0">
-    <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white"><h1>Informações</h1></div>
+    <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">
+    <header>
+        <a href="/"><h1>SMO</h1></a>
+         <a href="/p"><h3>Manutenção Predial</h3></a> <a href="/d"><h3>Manutenção DTI</h3></a> <a href="/o"><h3>Registro de Ocorrencias</h3></a>
+    </header>
+        <h1>Informações</h1>
+        <p></p>
+    </div>
     </body>
 </html>
